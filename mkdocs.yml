@@ -1,0 +1,6 @@
+site_name: Science Bowl Information
+repo_url: https://github.com/ScienceBowl/sciencebowl.club
+pages:
+- Home: index.md
+
+theme: readthedocs
