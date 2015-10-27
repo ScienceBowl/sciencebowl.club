@@ -1,6 +1,12 @@
+# This file defines the information to be processed and displayed by the magical automatic processor
+
+# The website title
 site_name: Science Bowl Information
+# Adds the "Edit on GitHub" link to the top right, pointing back to here
 repo_url: https://github.com/ScienceBowl/sciencebowl.club
+# Defines pages to show up on the menu on the left side
 pages:
 - Home: index.md
 
+# This is the theme/layout used to display the content
 theme: readthedocs
