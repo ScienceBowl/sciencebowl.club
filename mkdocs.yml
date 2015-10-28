@@ -7,7 +7,7 @@ repo_url: https://github.com/ScienceBowl/sciencebowl.club
 # Defines pages to show up on the menu on the left side
 pages:
 - Home: index.md
-- Studying Resources: studying/resources.md
+- "Studying Resources": studying/resources.md
 
 # This is the theme/layout used to display the content
 theme: readthedocs
