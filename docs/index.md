@@ -1,3 +1,1 @@
-This is an initial test page for testing.
-
-**Test**
+See the [studying resources](studying/resources.md) page for more info.
