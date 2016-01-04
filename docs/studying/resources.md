@@ -1,5 +1,9 @@
 > This page requires some work, outlining the benefits of each resource.
 
+### Science Olympiad Scrambler wiki
+[http://scioly.org/wiki/index.php/Scrambler](http://scioly.org/wiki/index.php/Scrambler)  
+Information on various scrambler car designs.
+
 ### Khan Academy
 [khanacademy.org](https://www.khanacademy.org/)  
 Khan Academy provides completely free educational materials covering
